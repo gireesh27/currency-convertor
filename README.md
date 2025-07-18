@@ -1,5 +1,4 @@
 
-````md
 # 🌐 Currency Converter Web App
 
 Live Demo 👉 [currency-convertor-alpha-five.vercel.app](https://currency-convertor-alpha-five.vercel.app/)
@@ -67,6 +66,3 @@ A modern, responsive currency converter web app built using **HTML**, **CSS**, a
 * Project: [Currency Converter](https://currency-convertor-alpha-five.vercel.app/)
 
 ---
-
-> Built with ❤️ by Gireesh
-```
