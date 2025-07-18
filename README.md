@@ -37,17 +37,6 @@ A modern, responsive currency converter web app built using **HTML**, **CSS**, a
 
 ---
 
-## 📂 Project Structure
-
-.
-├── index.html // Main HTML
-├── style.css // Trendy responsive styles
-├── app.js // Core logic & API calls
-├── codes.js // Currency → CountryCode map
-└── config.js // (Optional) Local API key storage
-
----
-
 ## 🖼️ Screenshot
 
 <img width="1186" height="1002" alt="image" src="https://github.com/user-attachments/assets/986e3627-1f49-4e9f-a38d-f17ac06828ee" />
